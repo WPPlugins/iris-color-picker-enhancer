@@ -1,0 +1,120 @@
+# Copyright (C) 2016 Iris Color Picker Enhancer
+# This file is distributed under the same license as the Iris Color Picker Enhancer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Iris Color Picker Enhancer 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/iris-color-picker-"
+"enhancer\n"
+"POT-Creation-Date: 2016-05-25 07:00:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-05-25 15:04+0800\n"
+"Last-Translator: Maeve Lander <support@enigmaplugins.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.7\n"
+
+#: includes/icpe-settings.php:13
+msgid "Settings updated successfully"
+msgstr ""
+
+#: includes/icpe-settings.php:22
+msgid "Color Settings"
+msgstr ""
+
+#: includes/icpe-settings.php:47
+msgid "About this plugin"
+msgstr ""
+
+#: includes/icpe-settings.php:48
+msgid ""
+"This is a simple plugin to customise the default color palette used by all "
+"instances of Iris Color Picker. Choose your default colors, and turn Alpha "
+"control on or off."
+msgstr ""
+
+#: includes/icpe-settings.php:55
+msgid "Color 1:"
+msgstr ""
+
+#: includes/icpe-settings.php:64
+msgid "Color 2:"
+msgstr ""
+
+#: includes/icpe-settings.php:73
+msgid "Color 3:"
+msgstr ""
+
+#: includes/icpe-settings.php:83
+msgid "Color 4:"
+msgstr ""
+
+#: includes/icpe-settings.php:92
+msgid "Color 5:"
+msgstr ""
+
+#: includes/icpe-settings.php:101
+msgid "Color 6:"
+msgstr ""
+
+#: includes/icpe-settings.php:110
+msgid "Color 7:"
+msgstr ""
+
+#: includes/icpe-settings.php:119
+msgid "Alpha"
+msgstr ""
+
+#: includes/icpe-settings.php:146
+msgid "Help Improve This Plugin!"
+msgstr ""
+
+#: includes/icpe-settings.php:166
+msgid "you can also help by"
+msgstr ""
+
+#: includes/icpe-settings.php:168
+msgid "rating this plugin on wordpress.org"
+msgstr ""
+
+#: includes/icpe-settings.php:177
+msgid "Need Support?"
+msgstr ""
+
+#: includes/icpe-settings.php:182
+msgid "Check out the"
+msgstr ""
+
+#: includes/icpe-settings.php:183
+msgid "FAQs"
+msgstr ""
+
+#: includes/icpe-settings.php:184
+msgid "and"
+msgstr ""
+
+#: includes/icpe-settings.php:185
+msgid "Support Forums"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Iris Color Picker Enhancer 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: iris-color-picker-enhancer.php:22
+msgid "Iris Color Picker Enhancer"
+msgstr ""
+
+#: iris-color-picker-enhancer.php:138
+msgid "Settings"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugin/iris-color-picker-enhancer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customise the default color palette used by Iris Color Picker"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://enigmaplugins.com"
+msgstr ""
